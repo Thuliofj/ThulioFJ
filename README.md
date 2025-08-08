@@ -12,4 +12,8 @@
 OPA **Thúlio Ferreira** aqui, tenho 23 anos. Comecei a faculdade de Gestão em Tecnologia da Informação e me apaixonei por tecnologia, sempre busco novos conhecimentos e agora estou fazendo cursos de programação pois adorei o mesmo, no momento estou aprendendo **Python, SQL e PowerBI**.
 
 ---
-
+### Redes 🕸️
+<div align="center">
+  <a href="https://www.linkedin.com/in/th%C3%BAlioferreirajacauna" target="_blank">LinkedIn</a> |
+  <a href="https://x.com/ThulioFJ" target="_blank">X</a>
+</div>
