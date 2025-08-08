@@ -12,7 +12,7 @@
 
 <div align="center">
   <!-- GIF centralizado -->
-  <img src="https://media1.tenor.com/m/ySGAt_5-6ncAAAAC/frog-detective-walking-amphibian.gif" alt="Meu GIF" width="300">
+  <img src="https://media1.tenor.com/m/ySGAt_5-6ncAAAAC/frog-detective-walking-amphibian.gif" alt="Meu GIF" width="50">
    
 OPA **Thúlio Ferreira** aqui, tenho 23 anos. Comecei a faculdade de Gestão em Tecnologia da Informação e me apaixonei por tecnologia, sempre busco novos conhecimentos e agora estou fazendo cursos de programação pois adorei o mesmo, no momento estou aprendendo **Python, SQL e PowerBI**.
   </p>
