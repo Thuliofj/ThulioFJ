@@ -15,5 +15,6 @@ OPA **Thúlio Ferreira** aqui, tenho 23 anos. Comecei a faculdade de Gestão em 
 
 ### Redes
 <p align="center">
-  <a href="https://www.linkedin.com/in/th%C3%BAlioferreirajacauna"</a>
+ Linkedin : "https://www.linkedin.com/in/th%C3%BAlioferreirajacauna"
+ </p>
 
