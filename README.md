@@ -6,12 +6,15 @@
   </p>
 
   ---
+
 <p align="center">
 <strong>🐸 Sobre mim 🐸</strong><br>
 
 OPA **Thúlio Ferreira** aqui, tenho 23 anos. Comecei a faculdade de Gestão em Tecnologia da Informação e me apaixonei por tecnologia, sempre busco novos conhecimentos e agora estou fazendo cursos de programação pois adorei o mesmo, no momento estou aprendendo **Python, SQL e PowerBI**.
   </p>
+
 ---
+
 <p align="center">
  <strong>Redes 🕸️</strong><br>
      </p>
