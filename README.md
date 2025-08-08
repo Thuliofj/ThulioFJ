@@ -7,7 +7,7 @@
 
   ---
 
-### 🐌 Sobre mim
+### 🐸 Sobre mim 🐸
 
 Opa **Thúlio Ferreira**, tenho 23 anos. Comecei a faculdade de Gestão em Tecnologia da Informação e me apaixonei por tecnologia, sempre busco novos conhecimentos e agora estou fazendo cursos de programação pois adorei o mesmo, no momento estou aprendendo **Python, SQL e PowerBI**.
 
