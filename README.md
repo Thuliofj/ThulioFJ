@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Thúlio 🐸</h1>
 
 <p align="center">
-   <strong>Tecnologo em TI - Cruzeiro do Sul (2º Semestre)</strong><br>
+   <strong>Tecnólogo  em TI - Cruzeiro do Sul (2º Semestre)</strong><br>
   🇧🇷 São Paulo - Brasil<br>
   </p>
 
