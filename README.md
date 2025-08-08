@@ -7,13 +7,13 @@
 
   ---
 <p align="center">
-### 🐸 Sobre mim 🐸
+ ###🐸 Sobre mim 🐸
 
 OPA **Thúlio Ferreira** aqui, tenho 23 anos. Comecei a faculdade de Gestão em Tecnologia da Informação e me apaixonei por tecnologia, sempre busco novos conhecimentos e agora estou fazendo cursos de programação pois adorei o mesmo, no momento estou aprendendo **Python, SQL e PowerBI**.
   </p>
 ---
 <p align="center">
-### Redes 🕸️
+ ###Redes 🕸️
      </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/th%C3%BAlioferreirajacauna" target="_blank">LinkedIn</a> |
