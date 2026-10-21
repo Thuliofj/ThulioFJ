@@ -15,8 +15,20 @@
   <img src="https://i.imgur.com/p9niLy4.gif" alt="Meu GIF" width="50" style="pointer-events: none;">
 </div>
 
-OPA **Thúlio Ferreira** aqui, tenho 24 anos. Comecei a faculdade de Gestão em Tecnologia da Informação e me apaixonei por tecnologia, sempre busco novos conhecimentos e agora estou fazendo cursos de programação pois adorei o mesmo, no momento estou aprendendo **Python, SQL e PowerBI**.
+   OPA **Thúlio Ferreira** aqui, tenho 24 anos. Comecei a faculdade de Gestão em Tecnologia da Informação e me apaixonei por tecnologia, sempre busco novos conhecimentos e agora estou fazendo cursos de programação pois     adorei o mesmo, no momento estou aprendendo: 
+- **Python** 
+- **SQL** 
+- **PowerBI**
   </p>
+---
+
+ <p align="center">
+ <strong>💡 Soft Skills </strong><br>
+     </p>
+     
+-  **Sou autodidata**  
+-  **Ótimo trabalho em equipe**  
+-  **Comunicativo**  
 
 ---
 
