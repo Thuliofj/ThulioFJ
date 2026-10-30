@@ -1,41 +1,61 @@
-<h1 align="center">Olá, me chamo Thúlio 🐸</h1>
+<h1 align="center">Olá, eu sou o Thúlio 🐸</h1>
 
 <p align="center">
-   <strong>Tecnólogo  em TI - Cruzeiro do Sul (4º Semestre)</strong><br>
-  🇧🇷 São Paulo - Brasil<br>
-  </p>
-
-  ---
+  <img src="https://i.imgur.com/p9niLy4.gif" alt="Sapo andando" width="80">
+</p>
 
 <p align="center">
-<strong>🐸 Sobre mim 🐸</strong><br>
+  Transformando curiosidade em código e dados em decisões.<br>
+  <strong>Tecnólogo em TI · Cruzeiro do Sul (4º Semestre)</strong><br>
+  📍 São Paulo - Brasil
+</p>
 
-<div align="center">
-  <!-- GIF centralizado (não clicável) -->
-  <img src="https://i.imgur.com/p9niLy4.gif" alt="Meu GIF" width="50" style="pointer-events: none;">
-</div>
-
-   OPA **Thúlio Ferreira** aqui, tenho 24 anos. Comecei a faculdade de Gestão em Tecnologia da Informação e me apaixonei por tecnologia, sempre busco novos conhecimentos e agora estou fazendo cursos de programação pois     adorei o mesmo, no momento estou aprendendo: 
-- **Python** 
-- **SQL** 
-- **PowerBI**
-  </p>
----
-
- <p align="center">
- <strong>💡 Soft Skills </strong><br>
-     </p>
-     
--  **Sou autodidata**  
--  **Ótimo trabalho em equipe**  
--  **Comunicativo**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/th%C3%BAlioferreirajacauna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/ThulioFJ" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
 
 ---
 
+## 🐸 Sobre mim
+
+Opa! Sou o **Thúlio Ferreira**, tenho 24 anos e comecei a faculdade de Gestão em Tecnologia da Informação. Me apaixonei por tecnologia e hoje estou mergulhando em programação e análise de dados, sempre buscando novos conhecimentos.
+
+## 💡 Soft Skills
+
+- **Autodidata**
+- **Ótimo trabalho em equipe**
+- **Comunicativo**
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+## 📚 Estudando agora
+
+<p>
+  <img src="https://img.shields.io/badge/Python-em_andamento-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-em_andamento-4479A1?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/Power_BI-em_andamento-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+</p>
+
+## 🚀 Projetos
+
+- 🧮 **[Calculadora](https://github.com/SEU-USUARIO/Calculadora)**: calculadora em Python feita no curso da Fundação Bradesco
+- 🧠 **[Logica_python_ad05](https://github.com/SEU-USUARIO/Logica_python_ad05)**: exercícios de lógica de programação em Python
+
+---
+
 <p align="center">
- <strong>Redes 🕸️</strong><br>
-     </p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/th%C3%BAlioferreirajacauna" target="_blank">LinkedIn</a> |
-  <a href="https://x.com/ThulioFJ" target="_blank">X</a>
-</div>
+  🐸 Obrigado por passar por aqui!
+</p>
