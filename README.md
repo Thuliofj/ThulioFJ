@@ -51,8 +51,8 @@ Opa! Sou o **Thúlio Ferreira**, tenho 24 anos e comecei a faculdade de Gestão 
 
 ## 🚀 Projetos
 
-- 🧮 **[Calculadora](https://github.com/SEU-USUARIO/Calculadora)**: calculadora em Python feita no curso da Fundação Bradesco
-- 🧠 **[Logica_python_ad05](https://github.com/SEU-USUARIO/Logica_python_ad05)**: exercícios de lógica de programação em Python
+- 🧮 **[Calculadora](https://github.com/Thuliofj/Calculadora)**: calculadora em Python feita no curso da Fundação Bradesco
+- 🧠 **[Python - Lógica de Programação](https://github.com/Thuliofj/python-logica-de-programacao)**: exercícios de lógica de programação em Python
 
 ---
 
