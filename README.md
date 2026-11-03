@@ -23,7 +23,7 @@
 
 ## 🐸 Sobre mim
 
-Opa! Sou o **Thúlio Ferreira**, tenho 24 anos e comecei a faculdade de Gestão em Tecnologia da Informação. Me apaixonei por tecnologia e hoje estou mergulhando em programação e análise de dados, sempre buscando novos conhecimentos.
+Opa! Sou o **Thúlio Ferreira**, tenho 24 anos e comecei a faculdade de Gestão em Tecnologia da Informação. Me apaixonei por tecnologia e hoje estou mergulhando em programação, análise de dados, inteligência artificial e computação em nuvem, sempre buscando novos conhecimentos.
 
 ## 💡 Soft Skills
 
@@ -47,6 +47,11 @@ Opa! Sou o **Thúlio Ferreira**, tenho 24 anos e comecei a faculdade de Gestão 
   <img src="https://img.shields.io/badge/Python-em_andamento-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-em_andamento-4479A1?style=flat-square" alt="SQL">
   <img src="https://img.shields.io/badge/Power_BI-em_andamento-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  
+  ---
+  
+  <img src="https://img.shields.io/badge/Inteligência_Artificial-em_andamento-8A2BE2?style=flat-square" alt="Inteligência Artificial">
+  <img src="https://img.shields.io/badge/Computação_em_Nuvem-em_andamento-0078D4?style=flat-square&logo=icloud&logoColor=white" alt="Computação em Nuvem">
 </p>
 
 ## 🚀 Projetos
