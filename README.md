@@ -54,6 +54,17 @@ Opa! Sou o **Thúlio Ferreira**, tenho 24 anos e comecei a faculdade de Gestão 
   <img src="https://img.shields.io/badge/Computação_em_Nuvem-em_andamento-0078D4?style=flat-square&logo=icloud&logoColor=white" alt="Computação em Nuvem">
 </p>
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=Thuliofj&show_icons=true&theme=radical" alt="Estatísticas do GitHub do Thúlio" height="165">
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thuliofj&layout=compact&theme=radical" alt="Linguagens mais usadas" height="165">
+  </a>
+</p>
+
 ## 🚀 Projetos
 
 - 🧮 **[Calculadora](https://github.com/Thuliofj/Calculadora)**: calculadora em Python feita no curso da Fundação Bradesco
