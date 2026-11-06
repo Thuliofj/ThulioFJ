@@ -67,10 +67,10 @@ Opa! Sou o **Thúlio Ferreira**, tenho 24 anos e comecei a faculdade de Gestão 
 
 ## 🚀 Projetos
 
-- 🧮 **[Calculadora](https://github.com/Thuliofj/Calculadora)**: calculadora em Python feita no curso da Fundação Bradesco
+- 🧮 **[Python - Calculadora](https://github.com/Thuliofj/Calculadora)**: calculadora em Python feita no curso da Fundação Bradesco
 - 🧠 **[Python - Lógica de Programação](https://github.com/Thuliofj/python-logica-de-programacao)**: exercícios de lógica de programação em Python
-
----
+- 🎯 **[Python - Jogo Numero Aleatorio](https://github.com/Thuliofj/Jogo_Numero_Aleatorio)**: Jogo de adivinhação de número feito em Python, rodando no terminal.
+- 🎶 **[Colab/GoogleSheets - Desafio Festival de Musica](https://github.com/Thuliofj/Desafio_01_Festival_Musica)**: Projeto do bootcamp de Análise de Dados da Generation Brasil. Base de dados fictícia sobre um festival de música
 
 <p align="center">
   🐸 Obrigado por passar por aqui!
